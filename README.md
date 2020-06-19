@@ -37,7 +37,10 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 
 
 ## L'Alta Ribagorça
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| El Pont de Suert           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/EL_PONT_DE_SUERT.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_PONT_DE_SUERT.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/EL_PONT_DE_SUERT_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_PONT_DE_SUERT_minimal.png) |
 ## L'Anoia
 
 ## El Bages
