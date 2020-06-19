@@ -130,9 +130,18 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIMBODÍ_minimal.png) |
 
 ## El Garraf
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Cubelles-Cunit                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CUBELLES-CUNIT.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CUBELLES-CUNIT_minimal.png) |
 
 ## Les Garrigues
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| La Granadella                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_GRANADELLA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_GRANADELLA_minimal.png) |
+| Els Omellons                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ELS_OMELLONS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ELS_OMELLONS_minimal.png) |
 ## La Garrotxa
 
 ## El Gironès
