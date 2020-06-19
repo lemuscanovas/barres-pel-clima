@@ -6,6 +6,12 @@ Elaboració: **Marc Lemus i Cánovas** ([*@lemuscanovas*](https://twitter.com/le
 ![Warming Stripes per la mitjana de Catalunya](TX/AEROPORT_DE_BARCELONA_minimal.png)
 
 
+## Catalunya
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Catalunya (mitjana)           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/Catalunya.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/Catalunya.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/Catalunya_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/Catalunya_minimal.png) |
+
 ## L'Alt Camp
 
 |Població 	                 | Temperatura   | Precipitació |
