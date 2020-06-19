@@ -65,6 +65,12 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 
 
 ## El Baix Ebre
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Observatori de l'Ebre           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_EBRE.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_EBRE.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_EBRE_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_EBRE_minimal.png) |
+| L'Ametlla de Mar                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/L'AMETLLA_DE_MAR.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/L'AMETLLA_DE_MAR_minimal.png) |
 
 ## El Baix Empordà
 
