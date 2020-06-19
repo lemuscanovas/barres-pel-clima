@@ -1,5 +1,7 @@
 # Barres Pel Clima
-Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura (màxima mitjana) i precipitació per a diferents poblacions de Catalunya. Les dades provenen del Servei Meteorològic de Catalunya i comprenen el període 1950-2
+Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura (màxima mitjana) i precipitació per a diferents poblacions de Catalunya. Les dades provenen del Servei Meteorològic de Catalunya (meteo.cat) i comprenen el període 1950-2018.
+
+Elaboració: **Marc Lemus i Cánovas** ([*@lemuscanovas*](https://twitter.com/lemuscanovas))
 
 ![Warming Stripes per la mitjana de Catalunya](TX/AEROPORT_DE_BARCELONA_minimal.png)
 
