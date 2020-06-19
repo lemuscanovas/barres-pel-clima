@@ -184,9 +184,17 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PRATS_DE_LLUÇANÈS_minimal.png) |
 
 ## El Pallars Jussà
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Nerets-Tremp           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/NERETS-TREMP.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/NERETS-TREMP.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/NERETS-TREMP_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/NERETS-TREMP_minimal.png) |
+| La Pobla de Segur                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_POBLA_DE_SEGUR.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_POBLA_DE_SEGUR_minimal.png) |
 ## El Pallars Sobirà
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Esterri d'Àneu                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ESTERRI_D'ÀNEU.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ESTERRI_D'ÀNEU_minimal.png) |
 ## El Pla de l'Estany
 
 ## El Pla d'Urgell
