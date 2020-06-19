@@ -12,8 +12,8 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 ## L'Alt Empordà
 |Població 	                 | Temperatura   | Precipitació |
 |----------------------------|:----------|:---------------------|
-| Figueres-Cabanes           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/Tx/FIGUERES-CABANES.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES.png) |
-|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/Tx/FIGUERES-CABANES_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES_minimal.png) |
+| Figueres-Cabanes           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FIGUERES-CABANES.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FIGUERES-CABANES_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES_minimal.png) |
 
 
 ## L'Alt Penedès
