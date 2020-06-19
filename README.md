@@ -118,6 +118,16 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Puigcerdà                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGCERDÀ.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGCERDÀ_minimal.png) |
 ## La Conca de Barberà
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Montblanc                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MONTBLANC.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MONTBLANC_minimal.png) |
+| Sarral                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SARRAL.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SARRAL_minimal.png) |
+| Rocafort de Queralt                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ROCAFORT_DE_QUERALT.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ROCAFORT_DE_QUERALT_minimal.png) |
+| Vimbodí                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIMBODÍ.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIMBODÍ_minimal.png) |
 
 ## El Garraf
 
