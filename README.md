@@ -42,6 +42,13 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | El Pont de Suert           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/EL_PONT_DE_SUERT.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_PONT_DE_SUERT.png) |
 |                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/EL_PONT_DE_SUERT_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_PONT_DE_SUERT_minimal.png) |
 ## L'Anoia
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Igualada-Òdena           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA_ÒDENA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA_ÒDENA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA_ÒDENA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA_ÒDENA_minimal.png) |
+| El Bruc                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC_minimal.png) |
+
 
 ## El Bages
 
