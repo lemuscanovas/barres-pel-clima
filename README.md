@@ -105,9 +105,18 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Observatori Fabra          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_FABRA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_FABRA.png) |
 |                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_FABRA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_FABRA_minimal.png) |
 ## El Berguedà
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Berga                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BERGA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BERGA_minimal.png) |
+| Puig-Reig                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIG-REIG.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIG-REIG_minimal.png) |
 
 ## La Cerdanya
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Puigcerdà                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGCERDÀ.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGCERDÀ_minimal.png) |
 ## La Conca de Barberà
 
 ## El Garraf
