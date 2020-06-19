@@ -159,7 +159,14 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Malgrat de Mar                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALGRAT_DE_MAR.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALGRAT_DE_MAR_minimal.png) |
 ## El Montsià
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Amposta                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AMPOSTA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AMPOSTA_minimal.png) |
+| Godall                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GODALL.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GODALL_minimal.png) |
+| Mas de Barberans                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MAS_DE_BARBERANS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MAS_DE_BARBERANS_minimal.png) |
 ## La Noguera
 
 ## Osona
