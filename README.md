@@ -4,7 +4,7 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 
 ## L'Alt Camp
 
-|Ressources	                 | Période   | Période de référence |
+|Població 	                 | Temperatura   | Precipitació |
 |----------------------------|:----------|:---------------------|
 | Goddard Space Flight Center| 1880-2019 | 1951-1980            |
 | Met Office                 | 1850-2019 | 1961-1990            |
@@ -13,12 +13,6 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 
 ## L'Alt Empordà
 
-|Ressources	                 | Période   | Période de référence |
-|----------------------------|:----------|:---------------------|
-| Goddard Space Flight Center| 1880-2019 | 1951-1980            |
-| Met Office                 | 1850-2019 | 1961-1990            |
-| NOAA                       | 1880-2019 | 1951-1980            |
-| Berkeley Earth             | 1880-2019 | 1951-1980            |
 
 ## L'Alt Penedès
 
