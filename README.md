@@ -200,9 +200,23 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 ## El Pla d'Urgell
 
 ## El Priorat
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Cabacés                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CABACÉS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CABACÉS_minimal.png) |
 ## La Ribera d'Ebre
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Tivissa           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/TIVISSA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TIVISSA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/TIVISSA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TIVISSA_minimal.png) |
+| Flix-Vinebre           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FLIX-VINEBRE.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FLIX-VINEBRE.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FLIX-VINEBRE_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FLIX-VINEBRE_minimal.png) |
+| Benissanet                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BENISSANET.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BENISSANET_minimal.png) |
+| Miravet                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MIRAVET.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MIRAVET_minimal.png) |
+| Riba-Roja d'Ebre                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RIBA-ROJA_D'EBRE.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RIBA-ROJA_D'EBRE_minimal.png) |
 ## El Ripollès
 
 ## La Segarra
