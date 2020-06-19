@@ -18,6 +18,15 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CADAQUÉS_minimal.png) |
 
 ## L'Alt Penedès
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Vilafranca del Penedès           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VILAFRANCA_DEL_PENEDÈS.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VILAFRANCA_DEL_PENEDÈS.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VILAFRANCA_DEL_PENEDÈS_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VILAFRANCA_DEL_PENEDÈS_minimal.png) |
+| Castellví de la Marca                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CASTELLVÍ_DE_LA_MARCA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CASTELLVÍ_DE_LA_MARCA_minimal.png) |
+| Sant Quintí de Mediona/Caneletes                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SANT_QUINTÍ-CANALETES.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SANT_QUINTÍ-CANALETES_minimal.png) |
+
 
 ## L'Alt Urgell
 
