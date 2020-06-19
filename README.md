@@ -268,6 +268,20 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Vielha          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIELHA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIELHA.png) |
 |                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIELHA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIELHA_minimal.png) |
 ## El Vallès Occidental
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Terrassa                     |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TERRASSA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TERRASSA_minimal.png) |
 ## El Vallès Oriental
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Caldes de Montbui          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/CALDES_DE_MONTBUI.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CALDES_DE_MONTBUI.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/CALDES_DE_MONTBUI_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CALDES_DE_MONTBUI_minimal.png) |
+| Cardedeu          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/CARDEDEU.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CARDEDEU.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/CARDEDEU_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CARDEDEU_minimal.png) |
+| Granollers          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/GRANOLLERS.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GRANOLLERS.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/GRANOLLERS_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GRANOLLERS_minimal.png) |
+| Turó de l'Home-Puigsesolles          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/PUIGSESOLLES.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGSESOLLES.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/PUIGSESOLLES_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PUIGSESOLLES_minimal.png) |
+| Llinars del Vallès                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLINARS_DEL_VALLÈS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLINARS_DEL_VALLÈS_minimal.png) |
