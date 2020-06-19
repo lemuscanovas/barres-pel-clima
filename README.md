@@ -94,9 +94,16 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 
 
 ## El Baix Penedès
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Cubelles-Cunit                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CUBELLES-CUNIT.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CUBELLES-CUNIT_minimal.png) |
 
 ## El Barcelonès
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Observatori Fabra          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_FABRA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_FABRA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OBSERVATORI_FABRA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OBSERVATORI_FABRA_minimal.png) |
 ## El Berguedà
 
 ## La Cerdanya
