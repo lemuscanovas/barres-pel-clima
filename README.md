@@ -14,8 +14,8 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |----------------------------|:----------|:---------------------|
 | Figueres-Cabanes           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FIGUERES-CABANES.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES.png) |
 |                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/FIGUERES-CABANES_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/FIGUERES-CABANES_minimal.png) |
-| Cadaqués                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CADAQUES.png) |
-|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CADAQUES_minimal.png) |
+| Cadaqués                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CADAQUÉS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CADAQUÉS_minimal.png) |
 
 ## L'Alt Penedès
 
