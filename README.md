@@ -143,11 +143,21 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Els Omellons                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ELS_OMELLONS.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ELS_OMELLONS_minimal.png) |
 ## La Garrotxa
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Castellfollit de la Roca                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CASTELLFOLLIT_DE_LA_ROCA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CASTELLFOLLIT_DE_LA_ROCA_minimal.png) |
 
 ## El Gironès
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Girona          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/GIRONA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GIRONA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/GIRONA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/GIRONA_minimal.png) |
 ## El Maresme
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Malgrat de Mar                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALGRAT_DE_MAR.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALGRAT_DE_MAR_minimal.png) |
 ## El Montsià
 
 ## La Noguera
