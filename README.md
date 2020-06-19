@@ -27,8 +27,14 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Sant Quintí de Mediona/Caneletes                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SANT_QUINTÍ-CANALETES.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/SANT_QUINTÍ-CANALETES_minimal.png) |
 
-
 ## L'Alt Urgell
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Oliana           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OLIANA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OLIANA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/OLIANA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/OLIANA_minimal.png) |
+| Organyà                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ORGANYÀ.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ORGANYÀ_minimal.png) |
+
 
 ## L'Alta Ribagorça
 
