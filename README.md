@@ -49,10 +49,20 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | El Bruc                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC_minimal.png) |
 
-
 ## El Bages
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Balsareny                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BALSARENY.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BALSARENY_minimal.png) |
 
 ## El Baix Camp
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Aeroport de Reus           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_REUS.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_REUS.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_REUS_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_REUS_minimal.png) |
+| Reus                     |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/REUS_-_CENTRE_DE_LECTURA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/REUS_-_CENTRE_DE_LECTURA_minimal.png) |
+
 
 ## El Baix Ebre
 
