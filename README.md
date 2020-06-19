@@ -170,6 +170,18 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 ## La Noguera
 
 ## Osona
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Vic           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIC.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIC.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIC_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIC_minimal.png) |
+| Mallà           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/MALLA_-_TORRELLEBRETA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALLA_-_TORRELLEBRETA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/MALLA_-_TORRELLEBRETA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/MALLA_-_TORRELLEBRETA_minimal.png) |
+| Taradell                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TARADELL.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TARADELL_minimal.png) |
+| Torelló                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TORELLÓ.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TORELLÓ_minimal.png) |
+| Prats de Lluçanès                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PRATS_DE_LLUÇANÈS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PRATS_DE_LLUÇANÈS_minimal.png) |
 
 ## El Pallars Jussà
 
