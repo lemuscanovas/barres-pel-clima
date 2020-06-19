@@ -73,6 +73,14 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/L'AMETLLA_DE_MAR_minimal.png) |
 
 ## El Baix Empordà
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| L'Estartit                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/L'ESTARTIT.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/L'ESTARTIT_minimal.png) |
+| La Tallada d'Empordà                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_TALLADA_D'EMPORDÀ.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LA_TALLADA_D'EMPORDÀ_minimal.png) |
+| Palafrugell                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PALAFRUGELL.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PALAFRUGELL_minimal.png) |
 
 ## El Baix Llobregat
 
