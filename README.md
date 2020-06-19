@@ -218,11 +218,20 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Riba-Roja d'Ebre                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RIBA-ROJA_D'EBRE.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RIBA-ROJA_D'EBRE_minimal.png) |
 ## El Ripollès
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Campdevànol                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CAMPDEVÀNOL.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CAMPDEVÀNOL_minimal.png) |
 ## La Segarra
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Cervera                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CERVERA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/CERVERA_minimal.png) |
 ## El Segrià
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Lleida          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/LLEIDA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLEIDA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/LLEIDA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLEIDA_minimal.png) |
 ## La Selva
 
 ## El Solsonès
