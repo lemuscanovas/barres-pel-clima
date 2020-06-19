@@ -44,8 +44,8 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 ## L'Anoia
 |Població 	                 | Temperatura   | Precipitació |
 |----------------------------|:----------|:---------------------|
-| Igualada-Òdena           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA_ÒDENA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA_ÒDENA.png) |
-|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA_ÒDENA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA_ÒDENA_minimal.png) |
+| Igualada-Òdena           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA-%C3%92DENA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA-%C3%92DENA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/IGUALADA-%C3%92DENA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/IGUALADA-%C3%92DENA_minimal.png) |
 | El Bruc                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC.png) |
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/EL_BRUC_minimal.png) |
 
