@@ -233,17 +233,40 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 | Lleida          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/LLEIDA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLEIDA.png) |
 |                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/LLEIDA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/LLEIDA_minimal.png) |
 ## La Selva
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Breda                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BREDA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BREDA_minimal.png) |
 ## El Solsonès
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Riner                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RINER.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/RINER_minimal.png) |
 ## El Tarragonès
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Aeroport de Reus           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_REUS.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_REUS.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_REUS_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_REUS_minimal.png) |
 ## La Terra Alta
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Vilalba dels Arcs                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VILALBA_DELS_ARCS.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VILALBA_DELS_ARCS_minimal.png) |
 ## L'Urgell
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Tàrrega          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/TÀRREGA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TÀRREGA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/TÀRREGA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/TÀRREGA_minimal.png) |
+| Agramut                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AGRAMUNT.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AGRAMUNT_minimal.png) |
+| Rocallaura                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ROCALLAURA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ROCALLAURA_minimal.png) |
 
 ## La Vall d'Aran
-
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Vielha          |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIELHA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIELHA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/VIELHA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VIELHA_minimal.png) |
 ## El Vallès Occidental
 
 ## El Vallès Oriental
