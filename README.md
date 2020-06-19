@@ -7,7 +7,7 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |Població 	                 | Temperatura   | Precipitació |
 |----------------------------|:----------|:---------------------|
 | Valls                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VALLS.png) |
-|                            |  | [minimal]([completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VALLS_minimal.png))            |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/VALLS_minimal.png) |
 | Goddard Space Flight Center| 1880-2019 |                      |
 |                            |1880-2019  | 1951-1980            |
 | Goddard Space Flight Center| 1880-2019 |                      |
