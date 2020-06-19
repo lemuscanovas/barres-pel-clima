@@ -83,6 +83,15 @@ Consulta i descarrega les ja conegudes "Climate Stripes" de temperatura i precip
 |                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/PALAFRUGELL_minimal.png) |
 
 ## El Baix Llobregat
+|Població 	                 | Temperatura   | Precipitació |
+|----------------------------|:----------|:---------------------|
+| Aeroport de Barcelona           |[completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_BARCELONA.png)   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_BARCELONA.png) |
+|                            |[minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/TX/AEROPORT_DE_BARCELONA_minimal.png)  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/AEROPORT_DE_BARCELONA_minimal.png) |
+| Begues                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BEGUES.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/BEGUES_minimal.png) |
+| Esparraguera                      |   | [completa](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ESPARRAGUERA.png) |
+|                            |  | [minimal](https://github.com/lemuscanovas/barres-pel-clima/blob/master/RR/ESPARRAGUERA_minimal.png) |
+
 
 ## El Baix Penedès
 
